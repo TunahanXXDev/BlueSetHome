@@ -1,0 +1,13 @@
+name: BlueSetHome
+main: dev.tunahanxx.D
+version: 1.0.0
+author: TunahanXXDev
+description: The Blue Set Home
+
+commands:
+  sethome:
+     description: Home Set Commands
+  home:
+     description: Home Commands
+  delhome:
+     description: Home Delete Commands
